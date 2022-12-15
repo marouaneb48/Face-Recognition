@@ -56,7 +56,7 @@ def send_to_parent_for_absence(liste_absents):
         subject = "absence de " + nom + " " + \
             prenom  # Spécification de l'objet de votre mail
 
-        send_email("face.recognation45@gmail.com", "QU42zjpJ4",
+        send_email("face.recognation45@gmail.com", "password",
                    parent_mail, msg, subject)
 
 
@@ -70,7 +70,7 @@ def send_to_parent_for_delay(liste_retardataires):
         subject = "Retard de " + nom + " " + prenom
 
         send_email("face.recognation45@gmail.com",
-                   "QU42zjpJ4", parent_mail, msg, subject)
+                   "password", parent_mail, msg, subject)
 
 
 def send_to_manager(manager, piece_jointe, chemin):
