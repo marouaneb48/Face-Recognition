@@ -6,10 +6,11 @@ L'application est un système de reconnaissance visuelle, qui détecte automatiq
 
 ## Membres du projet
 
+Battach Marouane <br/>
 Wolf Maxime <br/>
 Boulet Timothé <br/>
-Tonetto Léo-Paul <br/>
-Battach Marouane
+Tonetto Léo-Paul 
+
 
 ### Jalons
 
@@ -59,7 +60,4 @@ python principale.py
 ## Support
 
 Pour plus d'informations/questions : <br/>
-maxime.wolf@student-cs.fr <br/>
-lp.tonetto@student-cs.fr <br/>
-timothe.boulet@student-cs.fr <br/>
 marouane.battach@student-cs.fr
