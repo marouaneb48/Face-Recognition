@@ -1,0 +1,15 @@
+Voici les élèves absents aujourd'hui :
+
+Rash Jim
+Hollande Francois
+Sarkozy Nicolas
+
+
+Voici les élèves en retard aujourd'hui:
+
+McHale Joel est en retard de 0 minutes 11 secondes
+Glover Donald est en retard de 0 minutes 13 secondes
+Pudi Dani est en retard de 0 minutes 13 secondes
+Harmon Dan est en retard de 0 minutes 13 secondes
+NicoleBrown Yvette est en retard de 0 minutes 13 secondes
+Jacobs Gilian est en retard de 0 minutes 14 secondes
